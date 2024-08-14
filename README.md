@@ -1,0 +1,1 @@
+Converts units. Very basic implementation - early days of SwiftUI. Built with extra layer of supporting all four types of conversion. This means quite a lot of code in the View struct and a lot of it boilerplatey so I assume I'll be learning lots of ways to make this more elegant soon.
